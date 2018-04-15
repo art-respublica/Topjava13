@@ -1,4 +1,4 @@
-package ru.javawebinar.topjava.web;
+package ru.javawebinar.topjava.web.deprecated;
 
 import org.slf4j.Logger;
 import org.springframework.web.context.WebApplicationContext;
